@@ -1,5 +1,5 @@
-ARTICULOS
-===
+Articulos
+=========
 
 
 .. autosummary::
