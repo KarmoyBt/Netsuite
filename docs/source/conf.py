@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'NetsuiteDoc '
+copyright = '2021, Excens Group'
+author = 'Javi Martin'
 
 release = '0.1'
 version = '0.1.0'
