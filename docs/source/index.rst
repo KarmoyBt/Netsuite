@@ -18,5 +18,5 @@ Contents
 
 .. toctree::
 
-   Articulos
+   Articulo
    Tipos
