@@ -1,3 +1,4 @@
+=========
 Articulos
 =========
 Informacion sobre los articulos de Netsuite 
@@ -13,9 +14,11 @@ Acceso
 
 Tipos
 -----
-1. 	Artículo de inventario	
+1. 	Artículo de inventario.
+
 	-	Artículo de inventario - Lote numerado
    -   Artículo de inventario - En serie
+   
 2. 	Artículo fuera de inventario	
 	2. * 	Artículo fuera de inventario - Para compra
 	2. * 	Artículo fuera de inventario - Para la venta
