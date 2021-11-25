@@ -51,7 +51,16 @@ Tipos
 Campos Articulos
 -----------------
 
-/'ITEM NAME/NUMBER'/
+Informacion Primaria
+
+ITEM NAME/NUMBER  -> Referencia del Articulo "Interna de Netusite"
+DISPLAY NAME/CODE -> Nombre del Articulo 
+VENDOR NAME/CODE -> Referencia del Proveedor 
+
+Sales/Pricing
+SALES DESCRIPTION -> Descripción de la Linea en las ventas
+
+
 
 
 
