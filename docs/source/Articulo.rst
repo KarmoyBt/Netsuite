@@ -15,36 +15,41 @@ Acceso
 
 Tipos
 -----
-* Artículo de inventario.
-	- Artículo de inventario - Lote numerado.
-   - Artículo de inventario - En serie.
+* Artículo de inventario
 
-* Artículo fuera de inventario.
-	- Artículo fuera de inventario - Para compra.
-	- Artículo fuera de inventario - Para la venta.
-	- Artículo fuera de inventario - Para reventa.
+	- Artículo de inventario - Lote numerado
+   - Artículo de inventario - En serie
 
-* Descripción.
-* Descuento.
-* Ensamblaje.
-	- Ensamblaje - Lote numerado.
-	- Ensamblaje - En serie.
+* Artículo fuera de inventario
 
-* Grupo de artículos.
-* Kit/paquete.
-* Otro cargo.
-	- Otro cargo - Para compra.
-	- Otro cargo - Para la venta.
-	- Otro cargo - Para reventa.
+	- Artículo fuera de inventario - Para compra
+	- Artículo fuera de inventario - Para la venta
+	- Artículo fuera de inventario - Para reventa
 
-* Payment.
-* Recargo.
-* Servicio.
-	- Servicio - Para compra.
-	- Servicio - Para la venta.
-	- Servicio - Para reventa.
+* Descripción
+* Descuento
+* Ensamblaje
 
-* Kit/Subassembly.	
+	- Ensamblaje - Lote numerado
+	- Ensamblaje - En serie
+
+* Grupo de artículos
+* Kit/paquete
+* Otro cargo
+
+	- Otro cargo - Para compra
+	- Otro cargo - Para la venta
+	- Otro cargo - Para reventa
+
+* Payment
+* Recargo
+* Servicio
+
+	- Servicio - Para compra
+	- Servicio - Para la venta
+	- Servicio - Para reventa
+
+* Kit/Subassembly
 
 
 
