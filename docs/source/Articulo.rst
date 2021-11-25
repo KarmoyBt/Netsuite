@@ -10,7 +10,7 @@ Acceso
 - Inventory -> List -> Item
 - Lista -> Contabilidad -> Articulos
 
-'https://IDNETSUITE.app.netsuite.com/app/common/item/itemlist.nl?whence=  <https://IDNETSUITE.app.netsuite.com/app/common/item/itemlist.nl?whence=>'_.
+`https://IDNETSUITE.app.netsuite.com/app/common/item/itemlist.nl?whence=  <https://IDNETSUITE.app.netsuite.com/app/common/item/itemlist.nl?whence=>`_
 
 
 Tipos
