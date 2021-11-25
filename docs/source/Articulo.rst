@@ -17,13 +17,14 @@ Tipos
 -----
 1. 	Artículo de inventario.
 
-	-	Artículo de inventario - Lote numerado
-   -   Artículo de inventario - En serie
+	-	Artículo de inventario - Lote numerado.
+   -  Artículo de inventario - En serie.
 
-2. 	Artículo fuera de inventario	
-	2. * 	Artículo fuera de inventario - Para compra
-	2. * 	Artículo fuera de inventario - Para la venta
-	2. * 	Artículo fuera de inventario - Para reventa
+2. 	Artículo fuera de inventario.
+
+	- Artículo fuera de inventario - Para compra.
+	- Artículo fuera de inventario - Para la venta.
+	- Artículo fuera de inventario - Para reventa.
 
 
 Campos Articulos
